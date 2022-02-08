@@ -42,6 +42,8 @@ Códigos de exemplos das aulas de php 7.4
 * 03:22 Baixar o Editor de Códigos VS Code
 * 05:03 Instalar o Editor de Códigos VS Code
 * 05:54 Configurar o Editor de Códigos VS Code
+* --:-- Configurar para o Português
+* --:-- Na configuração também fazemos as instalações de várias extensões
 
 ## Aprenda PHP do Zero
 1. Preparação do Ambiente de Desenvolvimento
