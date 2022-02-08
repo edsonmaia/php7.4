@@ -42,7 +42,7 @@
 
 	// ESCREVER VALORES DO ARRAY
 	echo "$alunos[0] <br>";
-	echo "$bebidas["sucos"][0] <br>";
+	echo $bebidas["sucos"][0] . " <br>";
 
 	// Para "varrer" cada uma das posições de um array, usamos as estruturas de repetição
 
@@ -79,9 +79,3 @@
 	// ORDENAR VALORES DO UM ARRAY DE Z a A
 	rsort($alunos);
 	print_r($alunos);
-	
-
-
-
-
-

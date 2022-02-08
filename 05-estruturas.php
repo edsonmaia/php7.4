@@ -50,7 +50,7 @@
 		case 'Dois':
 		case 'dois':
 		case 'DOIS':
-		case 2
+		case 2:
 			echo "<p>Opção dois escolhida</p>";
 			break;
 
@@ -99,4 +99,4 @@
 	do {
 		echo "<p>$nomes[$a]</p>";
 		$a++; // incremento dentro do laço
-	} while($a < $quant)
+	} while($a < $quant);

@@ -1,5 +1,5 @@
 <?php
-	echo "Olá mundo! <br>"
+	echo "Olá mundo! <br>";
 // delimitadores de código <?php ? >
 // finalize cada linha de código usando o ; ponto-e-vírgula
 
@@ -12,7 +12,7 @@ blocos
 */
 
 // Comandos de saída
-echo "Curso de PHP 7.4<br>";
+echo "Curso de PHP 7 <br>";
 echo("Professor Edson Maia <br>");
 
 print "Aula sobre variáveis <br>";
@@ -50,4 +50,3 @@ define("JUROS", 0.01); // juros de 1%
 // o . ponto serve para concatenar texto com outros textos, variáveis, constantes, etc.
 echo "Taxa " . TAXA . "% </p>";
 echo "Juros " . JUROS . "% </p>";
-
