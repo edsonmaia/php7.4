@@ -16,12 +16,12 @@ Códigos de exemplos das aulas de php 7.4
 
 ## Preparação do ambiente de Desenvolvimento
 
-. Faça o download do PHP 7.4.27 
+1. Faça o download do PHP 7.4.27 
 
 * VC15 x64 Non Thread Safe (2021-Dec-14 22:28:02)
 <https://windows.php.net/downloads/releases/php-7.4.27-nts-Win32-vc15-x64.zip>
 
-. Se quiser escolher outra versão acesse
+2. Se quiser escolher outra versão acesse
 
 * Windows Downloads
 <https://windows.php.net/download/>
@@ -44,19 +44,21 @@ Códigos de exemplos das aulas de php 7.4
 * 05:54 Configurar o Editor de Códigos VS Code
 
 ## Aprenda PHP do Zero
-. Olá
-. Variáveis e constantes
-. Operadores e Operações
-. Arrays
-. Estruturas de controle
-. Métodos GET e POST
-. Include e require
-. Validar e Sanitizar
-. Funções
-. Upload de arquivo
-. Uploads de arquivos
-. Sessões
-. Login
-. Criptografia
-. Bases de Dados - MySQL
-. Projeto Completo de um Sistema Web
+1. Preparação do Ambiente de Desenvolvimento
+2. Olá
+3. Variáveis e constantes
+4. Operadores e Operações
+5. Arrays
+6. Estruturas de controle
+7. Métodos GET e POST
+8. Include e require
+9. Validar e Sanitizar
+10. Funções
+11. Upload de arquivo
+12. Uploads de arquivos
+13. Sessões
+14. Login
+15. Criptografia
+
+* Bases de Dados - MySQL
+* Projeto Completo de um Sistema Web

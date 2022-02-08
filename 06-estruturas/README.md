@@ -10,10 +10,10 @@ Criar novo arquivo, Como criar arrays, Estruturas de Controle no PHP, Estruturas
 * Desvio Condicional -> if else
 * Desvio de Escolha  -> switch case
 * Laços de Repetição ou Iteração
-	. Para, faça	 -> for
-	. Para, cada	 -> foreach
-	. Enquanto, faça -> while
-	. Faça, enquanto -> do while
+	1. Para, faça	 -> for
+	2. Para, cada	 -> foreach
+	3. Enquanto, faça -> while
+	4. Faça, enquanto -> do while
 
 ## Estruturas condicionais
 * simples 	if
