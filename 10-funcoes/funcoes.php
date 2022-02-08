@@ -3,7 +3,7 @@
 	// FUNÇÕES
 
 	// função sem parâmetros e sem retorno
-	function exibeOlaMundo()]
+	function exibeOlaMundo()
 	{
 		echo "<p>Olá Mundo!</p>";
 	}

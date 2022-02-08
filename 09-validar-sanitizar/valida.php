@@ -25,7 +25,7 @@
 		$erros = [];
 
 		// SANITIZAR limpeza
-		$nome  = filter_input(INPUT_POST, 'nome', FILTER_SANITIZE_SPECIAL_CHARS)
+		$nome  = filter_input(INPUT_POST, 'nome', FILTER_SANITIZE_SPECIAL_CHARS);
 
 		$email = filter_input(INPUT_POST, 'email', FILTER_SANITIZE_EMAIL);
 
@@ -41,15 +41,15 @@
 		/*
 		// FILTROS
 		if(!$email = filter_input(INPUT_POST, 'email', FILTER_VALIDATE_EMAIL)) {
-			$erros = [] = "E-mail inválido";
+			$erros [] = "E-mail inválido";
 		}
 
 		if(!$idade = filter_input(INPUT_POST, 'idade', FILTER_VALIDATE_INT)) {
-			$erros = [] = "Idade tem que ser um número inteiro";
+			$erros [] = "Idade tem que ser um número inteiro";
 		}
 
 		if(!$peso = filter_input(INPUT_POST, 'peso', FILTER_VALIDATE_FLOAT)) {
-			$erros = [] = "Peso tem que ser um número real com casas decimais";
+			$erros [] = "Peso tem que ser um número real com casas decimais";
 		}
 
 		if(!empty($erros)) {
@@ -63,15 +63,15 @@
 		// FILTROS VALIDATE APOS SANITIZAR
 
 		if(!filter_var($email, FILTER_VALIDATE_EMAIL)) {
-			$erros = [] = "E-mail inválido";
+			$erros [] = "E-mail inválido";
 		}
 
 		if(!filter_var($idade, FILTER_VALIDATE_INT)) {
-			$erros = [] = "Idade inválida";
+			$erros [] = "Idade inválida";
 		}
 
 		if(!filter_var($peso, FILTER_VALIDATE_FLOAT)) {
-			$erros = [] = "Peso inválido";
+			$erros [] = "Peso inválido";
 		}
 
 		if(!empty($erros)) {
@@ -82,12 +82,7 @@
 			echo "Dados corretos!";
 		}
 
-
 		*/
-
-
-
-
 
 	}
 	
